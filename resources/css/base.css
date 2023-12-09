@@ -8,8 +8,17 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 20px 0;
-  background-color: #ffffff;
+  margin-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
   padding-inline: 20px;
+}
+
+body {
+  background-image: url(/resources/images/background-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 h1 {
