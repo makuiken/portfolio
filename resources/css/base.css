@@ -65,7 +65,7 @@ a {
   border-radius: 5px;
 }
 
-a:hover {
+.nav-link:hover {
   background-color: #333333;
   color: #ffffff;
   transition: all 0.3s ease-in-out;
