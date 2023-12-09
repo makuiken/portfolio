@@ -46,15 +46,12 @@ nav li {
 
 .projects-link {
     align-self: baseline;
-    background-color: #333333;
     padding-inline: 10px;
     border-radius: 5px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
 }
 
 .projects-link a {
-    color: #ffffff;
-    font-weight: 500;
+    font-weight: 800;
 }
 
 #photo {
@@ -64,10 +61,14 @@ nav li {
 a {
   color: #000000;
   text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
 }
 
 a:hover {
-  text-decoration: underline;
+  background-color: #333333;
+  color: #ffffff;
+  transition: all 0.3s ease-in-out;
 }
 
 #photo img {
