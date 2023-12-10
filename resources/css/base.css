@@ -11,15 +11,15 @@ header {
   margin-bottom: 20px;
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
-  padding-inline: 20px;
+  padding-inline: 10%;
 }
 
-body {
+/*body {
   background-image: url(/resources/images/background-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
+}*/
 
 h1 {
   font-size: 3rem;
